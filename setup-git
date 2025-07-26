@@ -1,0 +1,9 @@
+## Download GIT
+✅ Download: https://git-scm.com/downloads
+
+✅ Install seperti biasa (klik Next saja terus), pastikan "Add Git to PATH" dicentang
+
+✅ Setelah install, cek di terminal:
+```bash
+git --version
+```
