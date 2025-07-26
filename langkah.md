@@ -43,3 +43,4 @@ sudo docker run -d --name phpmyadmin \
   phpmyadmin/phpmyadmin
 ```
 
+Jika sudah buka kembali IP-EC2 akan masuk ke phpmyadmin
