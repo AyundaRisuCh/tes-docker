@@ -11,7 +11,13 @@ project/
 
 │   ├── requirements.txt
 
-│   └── Dockerfile
+│   ├── Dockerfile
+
+|   └── .github/
+
+|      └── workflows/
+
+|        └── deploy.yml  ← file YAML ini
 
 ```bash
 cd terraform
